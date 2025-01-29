@@ -1,0 +1,14 @@
+{
+  "username": "TestUser713",
+  "password": ">fg_G_mmz?=2",
+  "loginurl": "https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/Account/LogIn",
+  "dashboardurl": "https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/Benefits",
+  "newEmployee": {
+    "fname": "New Employee firstname",
+    "lname": "New Employee lastname"
+  },
+  "editedEmployee": {
+    "fname": "Edited Employee firstname",
+    "lname": "Edited Employee lastname"
+  }
+}

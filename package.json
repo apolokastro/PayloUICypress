@@ -1,0 +1,16 @@
+{
+  "name": "cypressui",
+  "version": "1.0.0",
+  "description": "Automation frameword focused on UI",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "chrome": "cypress run --browser chrome --headed"
+  },
+  "author": "Angel Baez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.1",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
